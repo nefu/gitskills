@@ -1,4 +1,5 @@
 # gitskills
 this repository for clone
 修改了开始
-this is master
+Creating a new branch is quick AND simple.
+
